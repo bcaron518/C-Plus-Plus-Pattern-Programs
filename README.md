@@ -1,4 +1,4 @@
-# C-Plus-Plus-Pattern-Programs
+# C Plus Plus Pattern Programs
 
 This repository contains five different pattern programs written in C++. Each program generates a specific pattern of stars (*) when executed. These patterns are useful for understanding nested loops and how to control output formatting in C++. Below are the details of each program:
 
